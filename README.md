@@ -8,7 +8,7 @@ Liu Z, Lin Y, Cao Y, et al. Swin transformer: hierarchical vision transformer us
 -
 
 # Contributors
-| [<img src="https://github.com/hanmyu.png" width="180dp;"/>](https://github.com/hanmyu) | |
+| [<img src="https://github.com/hanmyu.png" width="180dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="180dp;"/>](https://github.com/yuzhangzac) |
 | --- | --- |
-| <div align="center">[Han Myungein](https://github.com/hanmyu)</div> |  |
+| <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[Yu Zhang](https://github.com/yuzhangzac)</div> |
 
