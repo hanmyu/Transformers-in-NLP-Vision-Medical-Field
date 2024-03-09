@@ -1,11 +1,10 @@
-# Swin Transformer
-Liu Z, Lin Y, Cao Y, et al. Swin transformer: hierarchical vision transformer using shifted windows. In: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+# Transformers
 
-# Introduction
-Swin Transformer code can be found at https://github.com/microsoft/Swin-Transformer
-
-# Main Results
--
+# Contents
+- History of Transformer      
+- Application to NLP      
+- Application to Vision     
+- Application to Medical Field     
 
 # Contributors
 | [<img src="https://github.com/hanmyu.png" width="180dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="180dp;"/>](https://github.com/yuzhangzac) |
