@@ -1,4 +1,12 @@
-# Transformers
+# Transformers in NLP, Vision and Medical Field
+This repository contains a summary of the AI state-of-the-art papers.       
+The AI papers we cover here are
+- Attention Is All You Need
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+- Swin Transformer: Hierarchical Vision Transformer using Shifter Windows
+- From Turing to Transformers: A Comprehensive Review and Tutorial on the Evolution and Applications of Generative Transformer Models
+- Transformers in Healthcare: A Survey
 
 # Contents
 - History of Transformer      
@@ -11,4 +19,6 @@
 | --- | --- |
 | <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[Yu Zhang](https://github.com/yuzhangzac)</div> |
 
-<img width="800" alt="스크린샷 2024-03-18 오후 9 09 02" src="https://github.com/hanmyu/Transformers-in-NLP-Vision-Medical-Field/assets/157959298/affd2531-1d4a-49f4-a0b0-164e36ea5a20">
+From January 2024, Myungein Han (Ms. Biomedical Engineering, The University of Melbourne) and Yu Zhang (Dr. Biomedical Engineering, The University of Melbourne) read the AI state-of-the-art papers and have been discussing it via Zoom meeting regularly.      
+
+<img width="500" alt="스크린샷 2024-03-18 오후 9 09 02" src="https://github.com/hanmyu/Transformers-in-NLP-Vision-Medical-Field/assets/157959298/affd2531-1d4a-49f4-a0b0-164e36ea5a20">
