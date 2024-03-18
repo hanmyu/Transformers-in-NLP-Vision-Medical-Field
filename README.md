@@ -1,5 +1,5 @@
 # Transformers in NLP, Vision and Medical Field
-This repository contains a summary of the AI state-of-the-art papers.       
+This repository contains a summary of AI state-of-the-art papers.       
 The AI papers we cover here are
 - Attention Is All You Need
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
