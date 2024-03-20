@@ -14,7 +14,7 @@ The papers we cover here are
 - Application to Vision     
 - Application to Medical Field
 
-*Contents will be added more in the future while studying 
+*Contents will be added later while studying 
 
 # Contributors
 | [<img src="https://github.com/hanmyu.png" width="180dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="180dp;"/>](https://github.com/yuzhangzac) |
