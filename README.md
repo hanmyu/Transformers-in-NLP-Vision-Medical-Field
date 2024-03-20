@@ -12,7 +12,9 @@ The papers we cover here are
 - History of Transformer      
 - Application to NLP      
 - Application to Vision     
-- Application to Medical Field     
+- Application to Medical Field
+
+*Contents will be added more while studying 
 
 # Contributors
 | [<img src="https://github.com/hanmyu.png" width="180dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="180dp;"/>](https://github.com/yuzhangzac) |
