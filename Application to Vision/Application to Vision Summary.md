@@ -16,13 +16,27 @@ Vit is the first key innovation of Transformer in Vision.
 - ViT is used to classify an image. For example, through ViT, we can classify an image a bird, car etc.
 
 # Shortcomings of Vision Transformer
-ViT model can not fully reflect the image characteristics of 2D images as the image patch is inputted from image left to right, top to bottom     
+- ViT model can not fully reflect the image characteristics of 2D images as the image patch is inputted from image left to right, top to bottom
+- ViT model uses a lot of computing force when the image size is large (=when we have huge number of patches)
+
 -> Swin Transformer or CvT model were proposed
 
 Swin Transformer was a big breakthrough in Vision Recognition!
 
 # Swin Transformer
 Introduced at ‘Swin Transformer: Hierarchical Vision Transformer using Shifter Windows (Microsoft, 2021)’
+
+Implementing Transformer from text to image, challenges are
+- Existence of a different size of entities in an image
+- Resolution of image is high compared to a text
+-> Swin Transformer is introduced!
+
+## Shifted Windows
+- limit self-attention to non-overlapping local windows
+- allow cross-window connection
+
+Each time, the attention window is shifted with respect to the previous layers
+
 
 ## What are the differences btw ViT and Swin Transformer?
 
